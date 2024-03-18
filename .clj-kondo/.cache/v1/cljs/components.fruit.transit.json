@@ -1,0 +1,1 @@
+["^ ","~$fruit",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$components.fruit","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret","~:vector","~:arglist-str","[item]"]],"~:type","~:fn"],"~:filename","C:\\Users\\nyemi\\Documents\\react\\myproject2\\reagentpro\\src\\main\\components\\fruit.cljs"]
